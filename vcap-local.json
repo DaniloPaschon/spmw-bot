@@ -1,0 +1,14 @@
+{
+    "services": {
+        "conversation": [{
+            "label": "conversation",
+            "name": "Conversation",
+            "credentials": {
+                "url": "https://gateway.watsonplatform.net/assistant/api/v1/workspaces/d03b4b05-f692-4d5b-9072-dfd4713704a0/message/",
+                "username": "2651a134-875d-45fa-acee-bd7b197bbec4",
+                "password": "ZcFjFmOvtUsh",
+                "workspace_id": "d03b4b05-f692-4d5b-9072-dfd4713704a0"
+            }
+        }]
+    }
+}
